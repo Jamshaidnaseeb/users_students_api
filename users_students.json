@@ -1,0 +1,62 @@
+[
+  {
+    "userId": 1,
+    "id": "1",
+    "name": "Alice Johnson",
+    "email": "alice.johnson@example.com",
+    "website": "https://www.pexels.com/",
+    "mobile": "+1-555-123-4567",
+    "image": "https://images.pexels.com/photos/3758123/pexels-photo-3758123.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "description": "Alice is a computer science student with a passion for AI and machine learning."
+  },
+  {
+    "userId": 2,
+    "id": "2",
+    "name": "Bob Smith",
+    "email": "bob.smith@example.com",
+    "website": "https://www.pexels.com/",
+    "mobile": "+1-555-987-6543",
+    "image": "https://images.pexels.com/photos/3758123/pexels-photo-3758123.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "description": "Bob is a data science enthusiast who loves working with large datasets and solving complex problems."
+  },
+  {
+    "userId": 3,
+    "id": "3",
+    "name": "Charlie Davis",
+    "email": "charlie.davis@example.com",
+    "website": "https://www.pexels.com/",
+    "mobile": "+1-555-321-8765",
+    "image": "https://images.pexels.com/photos/3758123/pexels-photo-3758123.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "description": "Charlie is a web developer with a focus on front-end technologies and user experience design."
+  },
+  {
+    "userId": 4,
+    "id": "4",
+    "name": "Diana White",
+    "email": "diana.white@example.com",
+    "website": "https://www.pexels.com/",
+    "mobile": "+1-555-654-9871",
+    "image": "https://images.pexels.com/photos/3758123/pexels-photo-3758123.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "description": "Diana is a cybersecurity student, interested in network security and ethical hacking."
+  },
+  {
+    "userId": 5,
+    "id": "5",
+    "name": "Edward Green",
+    "email": "edward.green@example.com",
+    "website": "https://www.pexels.com/",
+    "mobile": "+1-555-876-5432",
+    "image": "https://images.pexels.com/photos/3758123/pexels-photo-3758123.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "description": "Edward is a software engineer focusing on backend development and database management."
+  },
+  {
+    "userId": 6,
+    "id": "6",
+    "name": "Fiona Brown",
+    "email": "fiona.brown@example.com",
+    "website": "https://www.pexels.com/",
+    "mobile": "+1-555-765-4321",
+    "image": "https://images.pexels.com/photos/3758123/pexels-photo-3758123.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "description": "Fiona is a UI/UX designer with a love for creating visually appealing and user-friendly designs."
+  }
+]
